@@ -6,7 +6,7 @@ public class electricity {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Electricty Bill ");
+		System.out.println("Electricty Bill for online user");
 		double Watts;
 		Scanner sc= new Scanner(System.in);
 		System.out.println("ENter the number of Watts ");
